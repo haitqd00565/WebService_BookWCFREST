@@ -1,0 +1,7 @@
+C:\Users\QUANG HAI\source\WebService\Book_WCFREST\Book_WCFREST\obj\Debug\Book_WCFREST.csprojAssemblyReference.cache
+C:\Users\QUANG HAI\source\WebService\Book_WCFREST\Book_WCFREST\obj\Debug\Book_WCFREST.csproj.CoreCompileInputs.cache
+C:\Users\QUANG HAI\source\WebService\Book_WCFREST\Book_WCFREST\bin\Book_WCFREST.dll.config
+C:\Users\QUANG HAI\source\WebService\Book_WCFREST\Book_WCFREST\bin\Book_WCFREST.dll
+C:\Users\QUANG HAI\source\WebService\Book_WCFREST\Book_WCFREST\bin\Book_WCFREST.pdb
+C:\Users\QUANG HAI\source\WebService\Book_WCFREST\Book_WCFREST\obj\Debug\Book_WCFREST.dll
+C:\Users\QUANG HAI\source\WebService\Book_WCFREST\Book_WCFREST\obj\Debug\Book_WCFREST.pdb
